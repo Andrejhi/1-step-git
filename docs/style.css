@@ -1,0 +1,17 @@
+.header{
+    padding: 50px 100px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.main{
+    background-color: blue;
+    padding: 100px;
+    color: #fff;
+    text-align: center;
+}
+.footer{
+    padding: 100px;
+    background-color: burlywood;
+    text-align: center;
+    color: #fff;
+}
